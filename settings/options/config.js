@@ -1,14 +1,14 @@
-// CREATED BY LEXXY
+// CREATED BY M.Alhakim
 const fs = require('fs')
 const chalk = require('chalk')
 
 // OTHERS
-global.owner = ['994408465157', '994408465157']
-global.premium = ['994408465157']
-global.number = '994408465157'
-global.botname = 'AryBotz-MD'
-global.packname = 'ByAry-MD'
-global.author = 'By Ary-Caa-!'
+global.owner = ['6285692198423', '6285692198423']
+global.premium = ['6285692198423']
+global.number = '6285692198423'
+global.botname = 'Thunder⚡ Bot'
+global.packname = 'thunder'
+global.author = 'By M.Alhakim'
 global.emailowner = 'arybotz791@gmail.com'
 global.websiteowner = 'https://github.com/aryjuanda'
 global.region = 'Indonesia'
@@ -19,7 +19,7 @@ global.simbol = "➭"
 global.rkyt = []
 
 // BIARIN:v
-global.creator = '© Created By AryBotz Official'
+global.creator = '© Created By M.Alhakim'
 
 // MESSAGE
 global.mess = {
