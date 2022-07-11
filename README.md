@@ -1,12 +1,12 @@
-# AryBotz-MD
+# Thunder Botz
 
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
 
 Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
 Jangan lupa untuk mengikuti github ku
-* My WhatsApp [`Click Here`](https://wa.me/994408465157?text=Assalamualaikum)
-* My Facebook [`Click Here`](https://www.facebook.com/profile.php?id=100076004896927)
+* My WhatsApp [`Click Here`](https://wa.me/6285692198423?text=Assalamualaikum)
+* My Instagram [`Click Here`](https://www.instagram.com/@muhammad_alhakim15
 
 ## Heroku Buildpack
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
@@ -205,5 +205,5 @@ Semua yang selalu mendukung
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
 
 
-Best Regards. AryBotz-MD
+Best Regards. Thunder Botz
 
